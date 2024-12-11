@@ -1,4 +1,4 @@
->**Overview** :
+>Overview :
  
 This project, Sign Language to Speech Conversion using Machine Learning, enables the recognition of American Sign Language (ASL) gestures and converts them into spoken words or sentences. It is designed to bridge the communication gap for individuals who use sign language.
 
@@ -16,7 +16,7 @@ This project, Sign Language to Speech Conversion using Machine Learning, enables
 * Libraries: MediaPipe, OpenCV, Tkinter, Pyttsx3, Scikit-learn
 * Machine Learning Model: Random Forest Classifier
 
->**How the Project Was Built**
+>How the Project Was Built
  
 **Dataset Collection** :
 
